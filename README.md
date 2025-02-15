@@ -1,2 +1,2 @@
-# CSE310-C-Snake
+# CSE310-CPPSnake
 A snake game written in C++
