@@ -4,7 +4,7 @@ This project is a simple implementation of the classic Snake game using C++. As 
 
 The game has all the classic Snake features - you control a snake that grows when it eats apples, while trying to avoid hitting walls or itself. I also added a high score system that saves your best scores between games.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]([http://youtube.link.goes.here](https://youtu.be/5CSJ3qHgtDI))
 
 # Development Environment
 
