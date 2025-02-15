@@ -25,7 +25,6 @@ The game uses several C++ features that I learned about:
 - [SDL2 Documentation](https://documentation.help/SDL/index.html)
 - [C++ Reference](https://en.cppreference.com/)
 - [LazyFoo's SDL Tutorials](https://lazyfoo.net/tutorials/SDL/)
-- [GeeksforGeeks C++ Game Development](https://www.geeksforgeeks.org/games-in-cpp/)
 - [Stack Overflow](https://stackoverflow.com/)
 
 # Future Work
